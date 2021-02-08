@@ -17,8 +17,6 @@
 
 pacman -Rs --noconfirm sddm
 pacman -Rs --noconfirm bash-completion
-pacman -Rs --noconfirm grub
-pacman -Rs --noconfirm os-prober
 pacman -Rs --noconfirm dex
 pacman -Rs --noconfirm libxinerama
 pacman -Rs --noconfirm make
