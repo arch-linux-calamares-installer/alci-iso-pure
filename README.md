@@ -4,7 +4,7 @@ This iso attempts to be the purest of Arch Linxu installations.
 
 # Arch Linux Calamares Installer or ALCI
 
-Use the correct version for building the iso.
+Use the correct version of Archiso to build the iso.
 
 **Read the archiso.md.**
 
@@ -12,7 +12,7 @@ Download the content of the github with (use the terminal)
 
 `git clone https://github.com/arcolinuxiso/alci-iso-pure`
 
-# Pacman.conf in archiso
+# Pacman.conf in archiso folder
 
 Only the archiso/pacman.conf will be used to download your packages.
 
@@ -28,7 +28,7 @@ It will not be used to build the iso.
 
 Only the archiso/packages.x86-64 files will be used.
 
-Check the bottom of the file and install the necessary packages
+Add more packages at the bottom of the file
 
 
 # Build process
