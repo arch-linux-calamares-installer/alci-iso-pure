@@ -125,14 +125,9 @@ alci-calamares
 alci-calamares-config-pure
 xterm
 
-#######################################################
-###  THESE PACKAGES WILL BE REMOVED VIA SCRIPT      ###
-#######################################################
 
 sddm
 bash-completion
-grub
-os-prober
 dex
 libxinerama
 make
@@ -140,4 +135,9 @@ xorg-xkill
 xterm
 xorg-xrdb
 
+#######################################################
+###      PACKAGES THAT STAY AFTER INSTALLATION      ###
+#######################################################
 
+grub
+os-prober
