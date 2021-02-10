@@ -10,7 +10,7 @@ Use the correct version of Archiso to build the iso.
 
 Download the content of the github with (use the terminal)
 
-`git clone https://github.com/arcolinuxiso/alci-iso-pure`
+`git clone https://github.com/arch-linux-calamares-installer/alci-iso-pure`
 
 # Pacman.conf in archiso folder
 
