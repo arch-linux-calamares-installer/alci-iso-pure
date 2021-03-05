@@ -19,7 +19,7 @@ dhcpcd
 diffutils
 dmraid
 dnsmasq
-#dosfstools
+dosfstools
 edk2-shell
 efibootmgr
 espeakup
@@ -142,6 +142,3 @@ xorg-xrdb
 
 grub
 os-prober
-
-#fix for issue new version of dosfstools
-dosfstools
