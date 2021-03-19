@@ -143,3 +143,4 @@ xorg-xrdb
 grub
 os-prober
 virtualbox-guest-utils
+mkinitcpio-openswap
