@@ -83,6 +83,7 @@ partimage
 pcsclite
 ppp
 pptpclient
+pv
 qemu-guest-agent
 reflector
 reiserfsprogs
@@ -109,6 +110,7 @@ usb_modeswitch
 usbmuxd
 usbutils
 vim
+virtualbox-guest-utils-nox
 vpnc
 wireless-regdb
 wireless_tools
