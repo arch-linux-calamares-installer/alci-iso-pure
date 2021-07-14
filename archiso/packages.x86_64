@@ -137,7 +137,9 @@ alci-calamares
 #alci-calamares-config
 #alci-calamares-config-btrfs
 #alci-calamares-config-dev
+#alci-calamares-config-lts
 alci-calamares-config-pure
+#alci-calamares-config-zen
 xterm
 
 
