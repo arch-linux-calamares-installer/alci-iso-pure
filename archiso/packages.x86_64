@@ -158,5 +158,5 @@ xorg-xrdb
 
 grub
 os-prober
-virtualbox-guest-utils
+#virtualbox-guest-utils
 mkinitcpio-openswap
