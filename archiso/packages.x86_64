@@ -161,3 +161,4 @@ grub
 os-prober
 #virtualbox-guest-utils
 mkinitcpio-openswap
+git
