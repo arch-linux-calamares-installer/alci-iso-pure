@@ -10,7 +10,6 @@ broadcom-wl
 btrfs-progs
 clonezilla
 cloud-init
-#crda
 cryptsetup
 darkhttpd
 ddrescue
@@ -51,6 +50,7 @@ libusb-compat
 linux
 linux-atm
 linux-firmware
+linux-firmware-marvell
 livecd-sounds
 lsscsi
 lvm2
@@ -137,6 +137,7 @@ alci-calamares
 #alci-calamares-config
 #alci-calamares-config-btrfs
 #alci-calamares-config-dev
+#alci-calamares-config-hardened
 #alci-calamares-config-lts
 alci-calamares-config-pure
 #alci-calamares-config-xanmod-edge
@@ -157,7 +158,6 @@ xorg-xrdb
 ###      PACKAGES THAT STAY AFTER INSTALLATION      ###
 #######################################################
 
-grub
 os-prober
 #virtualbox-guest-utils
 mkinitcpio-openswap
