@@ -16,3 +16,6 @@
 ###############################################################################
 
 #if necessary we can use this script too
+
+rm -f /etc/sddm.conf
+rm -f /etc/sddm.conf.d/kde_settings.conf
