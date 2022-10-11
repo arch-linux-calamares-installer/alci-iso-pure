@@ -19,4 +19,3 @@
 
 rm -f /etc/sddm.conf
 rm -f /etc/sddm.conf.d/kde_settings.conf
-rm -f /etc/sddm.conf.d
