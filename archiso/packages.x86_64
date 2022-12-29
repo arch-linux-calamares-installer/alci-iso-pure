@@ -144,7 +144,7 @@ alci-calamares
 #alci-calamares-config-hardened
 #alci-calamares-config-lts
 alci-calamares-config-pure
-#alci-calamares-config-xanmod-edge
+#alci-calamares-config-xanmod
 #alci-calamares-config-zen
 xterm
 
