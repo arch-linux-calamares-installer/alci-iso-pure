@@ -127,6 +127,7 @@ func_install_chadwm() {
     polkit-gnome
     rofi-lbonn-wayland
     scrot
+    sddm
     sxhkd
     thunar
     thunar-archive-plugin
@@ -154,5 +155,8 @@ func_install_chadwm() {
 
 func_install_chadwm
 
+sudo systemctl enable sddm
+
 cp -Rf ~/.config ~/.config-backup-$(date +%Y.%m.%d-%H.%M.%S)
 cp -arf /etc/skel/. ~
+
